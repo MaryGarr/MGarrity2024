@@ -1,0 +1,20 @@
+---
+title: "Blog"
+---
+
+April 26, 2024 - Neuroscience Blog
+
+::: {layout-ncol=2}
+
+![](Motorneuron.png)
+
+![](Motor Neuron Stained.png)
+
+![](Neuron.png)
+
+![](Neuroscience.png)
+
+:::
+
+
+

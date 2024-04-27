@@ -1,0 +1,25 @@
+---
+title: Projects
+---
+
+## Gene-Based Neuromodulation
+
+<img src="Muscle and Nerve.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.sciencedirect.com/science/article/abs/pii/S1042368003000081', 'blank');"/>
+
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1042368003000081" target="_blank">arXiv Preprint</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S1042368003000081" target="_blank">Code</a><br>
+
+Technologic advancements have made cell type–specific targeting, expression control, and safe and stable gene transfer possible. Animal research has provided increasing experience with gene transfer to the nervous system and sensory neurons in particular. Gene-based neuromodulation can be achieved through neuronal delivery of transgenes capable of altering synaptic function.
+
+----
+
+## The History of Neuromodulation 
+
+
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.sciencedirect.com/science/article/abs/pii/S1042368003000081" role="button" target="_blank" style="padding: 15px 30px;"></a>
+</div>
+```
